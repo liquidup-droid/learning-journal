@@ -1,0 +1,14 @@
+2026.4.10
+第一次尝试用GitHub记录学习路径。梳理一下最近的学习目标：
+<ul style="font-size:1.3em">
+    <li>日语N2（7.3日考试）</li>
+    <li>stm32单片机</li>
+主要学习硬件构成，以及hal库的代码
+    <li>焊接</li>
+BGA封装的颗粒，0402电阻
+    <li>CUDA</li>
+GPU编程，多线程并行加速
+    <li>FPGA、Verilog（SV）</li>
+    <li>Cadence</li>
+    <li>PCB</li>
+</ul>
