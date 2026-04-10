@@ -1,5 +1,8 @@
 # learning-journal
 Just to record what i've learnt through the day.Remember not to WASTE THE TIME.
+
+
+
 2026.4.10
 第一次尝试用GitHub记录学习路径。梳理一下最近的学习目标：
 <ul style="font-size:1.3em">
